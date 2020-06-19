@@ -1,0 +1,1 @@
+Select CEIL(AVG(Salary)- AVG(REPLACE(Salary,0,''))) from Employees;
